@@ -23,7 +23,14 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'another Phone ',
+    price: 99,
+    description: 'only adds if txt appears in products.ts'
   }
+  
 ];
 
 
